@@ -1,4 +1,4 @@
-FPGA System-on-Chip (simulation project)
+# FPGA System-on-Chip (simulation project)
 
 A small computer built from scratch in Verilog. A custom 16-bit CPU runs a program that reads a
 sensor over SPI, smooths the readings with an FIR filter, sets a motor speed with PWM, plays the
